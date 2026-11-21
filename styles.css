@@ -110,14 +110,11 @@ footer a { color: #c9c9c9; }
     border: none;
 }
 .about {
-    display: block;
-    background: #101010;
-}
-.about-container {
     display: grid;
-    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    grid-template-columns: 1fr 1fr;
     align-items: center;
-    gap: clamp(40px, 6vw, 90px);
+    gap: 450px;
+    background: #101010;
 }
 .about-text {
     width: 100%;
@@ -133,24 +130,11 @@ footer a { color: #c9c9c9; }
     display: flex;
     justify-content: flex-end;
 }
+
 .about-image img {
-    display: block;
-    width: 100%;
-    max-width: 380px;
-    aspect-ratio: 4 / 5;
-    height: auto;
+    width: 200%;
+    max-width: 150px;
+    height: 100px;
     object-fit: cover;
-}
-@media (max-width: 700px) {
-    .about-container {
-        grid-template-columns: 1fr;
-        gap: 32px;
-    }
-    .about-image {
-        justify-content: flex-start;
-    }
-    .about-image img {
-        max-width: 100%;
-    }
 }
 
