@@ -23,7 +23,7 @@ const projects = [
     description: "Replace this with a short description of your film."
   },
   {
-    title: "Mic'd up with Nat part ",
+    title: "Mic'd up with Nat part I",
     category: "social",
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/oiHXz7uyJXA?si=iAk1ohZjtzKpbIYW",
