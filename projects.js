@@ -23,10 +23,10 @@ const projects = [
     description: "Replace this with a short description of your film."
   },
   {
-    title: "Football Social Content — Example",
+    title: "Mic'd up with Nat part ",
     category: "social",
     label: "SOCIAL MEDIA CONTENT",
-    video: "",
+    video: "https://www.youtube.com/embed/oiHXz7uyJXA?si=iAk1ohZjtzKpbIYW",
     image: "",
     description: "Short-form content created for social platforms."
   },
