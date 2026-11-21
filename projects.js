@@ -30,11 +30,19 @@ const projects = [
     image: "",
     description: "Short-form content created for social platforms."
   },
-    {
+  {
     title: "Mic'd up with Nat part II",
     category: "social",
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/T0jACMS5IsE?si=F7A15ryV__bY0RmZ",
+    image: "",
+    description: "Short-form content created for social platforms."
+  },
+    {
+    title: "Who Should've Won The Ballon D'or?",
+    category: "social",
+    label: "SOCIAL MEDIA CONTENT",
+    video: "https://www.youtube.com/embed/lDfxypDsWuY?si=PBG5Fv6Empo5p-QU",
     image: "",
     description: "Short-form content created for social platforms."
   },
