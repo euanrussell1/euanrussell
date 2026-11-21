@@ -176,13 +176,33 @@ footer a { color: #c9c9c9; }
 .social-link:hover,
 .social-link:focus-visible { color: var(--red); }
 .contact-arrow {
-  display: inline-block;
-  width: 9px;
-  height: 9px;
-  border-top: 2px solid #fff;
-  border-right: 2px solid #fff;
-  transform: rotate(45deg);
-  margin-left: 10px;
-  position: relative;
-  top: -1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    position: relative;
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
+.contact-arrow::before {
+    content: "";
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    border-top: 1.5px solid currentColor;
+    border-right: 1.5px solid currentColor;
+    top: 0;
+    right: 0;
+}
+
+.contact-arrow::after {
+    content: "";
+    position: absolute;
+    width: 12px;
+    height: 1.5px;
+    background: currentColor;
+    transform: rotate(-45deg);
+    transform-origin: right center;
+    top: 10px;
+    right: 0;
 }
