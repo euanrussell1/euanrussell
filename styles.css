@@ -177,11 +177,12 @@ footer a { color: #c9c9c9; }
 .social-link:focus-visible { color: var(--red); }
 .contact-arrow {
   display: inline-block;
-  width: 8px;
-  height: 8px;
-  border-top: 1.5px solid currentColor;
-  border-right: 1.5px solid currentColor;
+  width: 9px;
+  height: 9px;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
   transform: rotate(45deg);
-  margin-left: 8px;
-  vertical-align: middle;
+  margin-left: 10px;
+  position: relative;
+  top: -1px;
 }
