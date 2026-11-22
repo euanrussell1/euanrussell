@@ -79,6 +79,14 @@ const projects = [
     description: 
   },
   {
+    title: "Spider-Man Brand New Day Edit I",
+    category: "Movie/Game Edits",
+    label: "EDITS",
+    video: "https://www.youtube.com/embed/Q3SDaID8w2c?si=m5ArLLF77b0F_wSS"  ,
+    image: "",
+    description: 
+  },
+  {
     title: "Nike tennis concept commercial",
     category: "commercial",
     label: "COMMERCIAL",
