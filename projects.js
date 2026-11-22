@@ -12,7 +12,7 @@ const projects = [
     label: "CINEMATIC EDIT",
     video: "https://www.youtube.com/embed/UWClFvdElYc",
     image: "",
-    description: "Replace this with a short description of your film."
+    description: 
   },
  {
     title: "FAB Cinematic Matchday -1 Edit",
@@ -20,7 +20,7 @@ const projects = [
     label: "CINEMATIC EDIT",
     video: "https://www.youtube.com/embed/JH-q5BHmp3E?si=4kpX74w40DHOgpU2",
     image: "",
-    description: "Replace this with a short description of your film."
+    description: 
   },
   {
     title: "Mic'd up with Nat part I",
@@ -28,7 +28,7 @@ const projects = [
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/oiHXz7uyJXA?si=iAk1ohZjtzKpbIYW",
     image: "",
-    description: "Short-form content created for social platforms."
+    description: 
   },
   {
     title: "Mic'd up with Nat part II",
@@ -36,7 +36,7 @@ const projects = [
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/T0jACMS5IsE?si=F7A15ryV__bY0RmZ",
     image: "",
-    description: "Short-form content created for social platforms."
+    description: 
   },
     {
     title: "Who Should've Won The Ballon D'or?",
@@ -44,15 +44,15 @@ const projects = [
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/lDfxypDsWuY?si=PBG5Fv6Empo5p-QU",
     image: "",
-    description: "Short-form content created for social platforms."
+    description: 
   },
   {
     title: "Tom Starck Athlete Edit",
-    category: "sport",
-    label: "SPORT",
+    category: "cinematic",
+    label: "CINEMATIC EDIT",
     video: "https://www.youtube.com/embed/A5Fw8wxorp4?si=T36bU9iSrF5O92hn",
     image: "",
-    description: "Capturing the atmosphere and action of matchday."
+    description: 
   },
   {
     title: "Earrings Travel Edit",
@@ -60,7 +60,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/DpTLqIiSnSg?si=ARpg_q9OAg_plE7q" ,
     image: "",
-    description: "A visual story from a place or experience."
+    description: 
   },
   {
     title: "France Travel Edit",
@@ -68,7 +68,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/rywlM8BY7io?si=ucy2Qe9CdOzwbVTk" ,
     image: "",
-    description: "A visual story from a place or experience."
+    description: 
   },
 {
     title: "Menorca Travel Edit",
@@ -76,7 +76,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/9NmMb4dB4NQ?si=Oak7XtLNpNXZTZKL"  ,
     image: "",
-    description: "A visual story from a place or experience."
+    description: 
   },
   {
     title: "Brand Film — Example",
@@ -84,6 +84,6 @@ const projects = [
     label: "COMMERCIAL",
     video: "",
     image: "",
-    description: "Video content for a brand or organisation."
+    description: 
   }
 ];
