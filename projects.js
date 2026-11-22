@@ -86,6 +86,46 @@ const projects = [
     image: "",
     description: 
   },
+   {
+    title: "Spider-Man Brand New Day Edit II",
+    category: "Movie/Game Edits",
+    label: "EDITS",
+    video: "https://www.youtube.com/embed/FWBAHp8kluY?si=IAYY854Wrdnj_0Rj"  ,
+    image: "",
+    description: 
+  },
+   {
+    title: "Star Wars TFU Edit",
+    category: "Movie/Game Edits",
+    label: "EDITS",
+    video: "https://www.youtube.com/embed/f4urb_duENM?si=t-FIKQ8-VguLjymZ"  ,
+    image: "",
+    description: 
+  },
+   {
+    title: "Tulley's Farm Halloween Edit",
+    category: "travel",
+    label: "TRAVEL",
+    video: "https://www.youtube.com/embed/JhLJGjqhdz8?si=48bDBIPcNGG4j3Gm"  ,
+    image: "",
+    description: 
+  },
+    {
+    title: "Cornwall Edit I",
+    category: "travel",
+    label: "TRAVEL",
+    video: "https://www.youtube.com/embed/3i4gK2DE7bg?si=3QTmt1GobaO-nRrA"  ,
+    image: "",
+    description: 
+  },
+     {
+    title: "Cotswold Travel Vlog Edit",
+    category: "travel",
+    label: "TRAVEL",
+    video: "https://www.youtube.com/embed/p_cqqPoDC6o?si=AN1_plcMkCgYUi_B"  ,
+    image: "",
+    description: 
+  },
   {
     title: "Nike tennis concept commercial",
     category: "commercial",
