@@ -12,7 +12,7 @@ const projects = [
     label: "CINEMATIC EDIT",
     video: "https://www.youtube.com/embed/UWClFvdElYc",
     image: "",
-    description: 
+    description: "",
   },
  {
     title: "FAB Cinematic Matchday -1 Edit",
@@ -20,7 +20,7 @@ const projects = [
     label: "CINEMATIC EDIT",
     video: "https://www.youtube.com/embed/JH-q5BHmp3E?si=4kpX74w40DHOgpU2",
     image: "",
-    description: 
+    description: "",
   },
   {
     title: "Mic'd up with Nat part I",
@@ -28,7 +28,7 @@ const projects = [
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/oiHXz7uyJXA?si=iAk1ohZjtzKpbIYW",
     image: "",
-    description: 
+    description: "",
   },
   {
     title: "Mic'd up with Nat part II",
@@ -36,7 +36,7 @@ const projects = [
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/T0jACMS5IsE?si=F7A15ryV__bY0RmZ",
     image: "",
-    description: 
+    description: "",
   },
     {
     title: "Who Should've Won The Ballon D'or?",
@@ -44,7 +44,7 @@ const projects = [
     label: "SOCIAL MEDIA CONTENT",
     video: "https://www.youtube.com/embed/lDfxypDsWuY?si=PBG5Fv6Empo5p-QU",
     image: "",
-    description: 
+    description: "",
   },
   {
     title: "Tom Starck Athlete Edit",
@@ -52,7 +52,7 @@ const projects = [
     label: "CINEMATIC EDIT",
     video: "https://www.youtube.com/embed/A5Fw8wxorp4?si=T36bU9iSrF5O92hn",
     image: "",
-    description: 
+    description: "",
   },
   {
     title: "Earrings Travel Edit",
@@ -60,7 +60,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/DpTLqIiSnSg?si=ARpg_q9OAg_plE7q" ,
     image: "",
-    description: 
+    description: "",
   },
   {
     title: "France Travel Edit",
@@ -68,7 +68,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/rywlM8BY7io?si=ucy2Qe9CdOzwbVTk" ,
     image: "",
-    description: 
+    description: "",
   },
 {
     title: "Menorca Travel Edit",
@@ -76,7 +76,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/9NmMb4dB4NQ?si=Oak7XtLNpNXZTZKL"  ,
     image: "",
-    description: 
+    description: "",
   },
   {
     title: "Spider-Man Brand New Day Edit I",
@@ -84,7 +84,7 @@ const projects = [
     label: "EDITS",
     video: "https://www.youtube.com/embed/Q3SDaID8w2c?si=m5ArLLF77b0F_wSS"  ,
     image: "",
-    description: 
+    description: "",
   },
    {
     title: "Spider-Man Brand New Day Edit II",
@@ -92,7 +92,7 @@ const projects = [
     label: "EDITS",
     video: "https://www.youtube.com/embed/FWBAHp8kluY?si=IAYY854Wrdnj_0Rj"  ,
     image: "",
-    description: 
+    description: "",
   },
    {
     title: "Star Wars TFU Edit",
@@ -100,7 +100,7 @@ const projects = [
     label: "EDITS",
     video: "https://www.youtube.com/embed/f4urb_duENM?si=t-FIKQ8-VguLjymZ"  ,
     image: "",
-    description: 
+    description: "",
   },
    {
     title: "Tulley's Farm Halloween Edit",
@@ -108,7 +108,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/JhLJGjqhdz8?si=48bDBIPcNGG4j3Gm"  ,
     image: "",
-    description: 
+    description: "", 
   },
     {
     title: "Cornwall Edit I",
@@ -116,7 +116,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/3i4gK2DE7bg?si=3QTmt1GobaO-nRrA"  ,
     image: "",
-    description: 
+    description: "",
   },
      {
     title: "Cotswold Travel Vlog Edit",
@@ -124,7 +124,7 @@ const projects = [
     label: "TRAVEL",
     video: "https://www.youtube.com/embed/p_cqqPoDC6o?si=AN1_plcMkCgYUi_B"  ,
     image: "",
-    description: 
+    description: "",
   },
   {
     title: "Nike tennis concept commercial",
@@ -132,6 +132,6 @@ const projects = [
     label: "COMMERCIAL",
     video: "https://www.youtube.com/embed/PzmERtpAEsU?si=Gudp5S8-YLH0JuNz",
     image: "",
-    description: 
+    description: "",
   }
 ];
